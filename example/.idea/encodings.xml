@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/chapter5/src/com/itzcn/bean/Classes.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter5/src/com/itzcn/bean/MyBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter5/src/com/itzcn/bean/Student.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter5/src/com/itzcn/bean/User.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter6_1/src/com/itzcn/servlet/AddServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter6_2/src/com/itzcn/servlet/AddServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter6_3/src/com/itzcn/bean/User.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter6_3/src/com/itzcn/filter/LoginFilter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter6_3/src/com/itzcn/filter/MyFilter.java" charset="GBK" />
+  </component>
+</project>
